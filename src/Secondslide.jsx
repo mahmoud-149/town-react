@@ -4,7 +4,7 @@ const Secondslide = () => {
   return (
     <div className="flex flex-col lg:flex-row md:flex-row   gap-12 items-center p-11 ">
       <div className="w-1/2 flex justify-center">
-        <img src="/public/the-town-01.jpg" alt="" className="" />
+        <img src="/public/secondsl.jpg" alt="" className="" />
       </div>
       <div className="flex  flex-col  w-90 items-start justify-between h-80 ">
         <h1 className="text-5xl text-blue-500">Introduction</h1>
