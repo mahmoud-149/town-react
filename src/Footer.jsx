@@ -14,7 +14,7 @@ const Footer = () => {
           ipsum dolor sit amet consectetur adipisicing elit. At in sequi facere,
           doloribus fugit inventore error quo doloremque cum esse?
         </p>
-        <div className="flex flex-row justify-between">
+        <div className="flex flex-col gap-2 justify-between md:flex-row lg:flex-row">
           <div className=" flex flex-col gap-8">
             <p>Phone: +201 119 554 463</p>
             <p>Location: Location On Map</p>

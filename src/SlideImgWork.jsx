@@ -15,31 +15,45 @@ const SlideImgWork = () => {
         </p>
       </div>
       <div className="flex flex-row justify-center gap-5 pb-10  flex-wrap h-1/2 ">
+        <div className="size-55">
         <img
           src={x1}
           alt=""
-          className="size-50 duration-300 hover:size-55 delay-150 ease-out"
-        />
+          className="size-53 duration-300 hover:size-55 delay-150 ease-out"
+          />
+          </div>
+          <div className="size-55">
+
         <img
           src={x2}
           alt=""
-          className="size-50 duration-300 hover:size-55 delay-150 ease-out"
-        />
+          className="size-53 duration-300 hover:size-55 delay-150 ease-out"
+          />
+          </div>
+          <div className="size-55">
+
         <img
           src={x3}
           alt=""
-          className="size-50 duration-300 hover:size-55 delay-150 ease-out"
-        />
+          className="size-53 duration-300 hover:size-55 delay-150 ease-out"
+          />
+          </div>
+          <div className="size-55">
+
         <img
           src={x4}
           alt=""
-          className="size-50 duration-300 hover:size-55 delay-150 ease-out"
-        />
+          className="size-53 duration-300 hover:size-55 delay-150 ease-out"
+          />
+          </div>
+          <div className="size-55">
+
         <img
           src={x5}
           alt=""
-          className="size-50 duration-300 hover:size-55 delay-150 ease-out"
-        />
+          className="size-53 duration-300 hover:size-55 delay-150 ease-out"
+          />
+          </div>
       </div>
     </div>
   );
